@@ -33,7 +33,7 @@ cd into oauth-authorization-code and execute "go run main.go"
 6. Setup IRC Client:
 
 
-AccessToken: siikcmjehd83ul7rp0ogsyxznbu4x3
+AccessToken: cupb1bl3y50pgnx3bc7l4rv690efs3
 Muss ich jedes Mal einen neuen Token genereieren?
 Brauche ich evtl. die anderen beiden OAuth Dateien?
 
